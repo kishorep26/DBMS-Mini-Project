@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>yearly salary</title>
+</head>
+<body>
+<form action="yearsal.html" method="post">
+<p>Salary</p>
+<p><input type='text' name='salary' size=10/></p></br>
+<input type="submit" value="submit"/>
+<p>yearly salary is:</p>
+<

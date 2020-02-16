@@ -1,0 +1,10 @@
+<?php
+$user='root';
+$pass='';
+$db='Brick_DB';
+$db=mysqli_connect('localhost',$user,$pass,$db);
+if($db)
+echo('Success');
+else
+echo('Failed');
+?>
